@@ -1,4 +1,4 @@
-# Base44 App
+# Karma App
 
 
 It's a Vite+React app that communicates with the Base44 API.
