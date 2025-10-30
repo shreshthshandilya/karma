@@ -16,4 +16,4 @@ npm run dev
 npm run build
 ```
 
-For more information and support, please contact Base44 support at app@base44.com.
+For more information and support, please contact Karma support at shresht.v.shandilya@gmail.com.
