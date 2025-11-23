@@ -70,6 +70,11 @@ Real-time nonprofit recommendations rely heavily on clean location data
 Messaging architecture needed to support both sides without confusion
 Balancing organization clarity with contributor simplicity
 
+## What to do for a improved version
+Better payment processing
+Solved login bugs
+Improved messaging
+
 # UI Screenshots
 <img width="1467" height="824" alt="image" src="https://github.com/user-attachments/assets/2b11dcf1-0df8-4c26-ba1b-a09327d6be23" />
 <img width="1467" height="824" alt="image" src="https://github.com/user-attachments/assets/9147abe4-b686-4fed-830d-5b21464ac413" />
